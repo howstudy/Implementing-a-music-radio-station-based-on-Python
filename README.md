@@ -24,4 +24,4 @@ pygame audio playback
 random randomize songs
 datetime Getting the current date and time
 # bgm
-本项目bgm使用项目musicgem生成：https://huggingface.co/spaces/facebook/MusicGen
+本项目bgm使用项目musicgen生成：https://huggingface.co/spaces/facebook/MusicGen
